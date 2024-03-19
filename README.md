@@ -1,4 +1,4 @@
-# my_profile
+# About me
 
 <h1 align="center">Hi 👋, I'm Nicolas Perruche-Serda</h1>
 <h3 align="center">I like talking to data ! #Data #innovation</h3>
