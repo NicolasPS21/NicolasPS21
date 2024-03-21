@@ -1,7 +1,7 @@
 # About me
 
 <h1 align="center">Hi 👋, I'm Nicolas Perruche-Serda</h1>
-<h3 align="center">I like talking to data ! #Data #innovation</h3>
+<h3 align="center">I like talking about data ! #Data #innovation</h3>
 
 - 🔭 I’m currently working on [Impact of global warming on grapes in Beaujolais](https://github.com/NicolasPS21/data_project_beaujolais_global_warming)
 
