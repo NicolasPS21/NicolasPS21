@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Nicolas Perruche-Serda</h1>
 <h3 align="center">I like talking about data ! #Data #innovation</h3>
 
-- 🔭 I’m currently working on [Impact of global warming on grapes in Beaujolais](https://github.com/NicolasPS21/data_project_beaujolais_global_warming)
+- 🔭 I’m currently working on [SNCF project about trains logistic and stations](https://github.com/NicolasPS21/SNCF_project)])
 
 - 🌱 I’m currently learning **Make, Machine Learning**
 
